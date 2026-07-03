@@ -69,3 +69,8 @@ streamlit run APP.py
 ##  Author
 
 Aditya Kumar
+
+##  Live Demo
+
+**Live Application:**  
+https://titanic-survival-prediction-d2gaxkvleqlvqbthott32y.streamlit.app/

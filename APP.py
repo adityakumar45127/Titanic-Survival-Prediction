@@ -1,9 +1,4 @@
 
-import sys
-import sklearn
-
-print(sys.executable)
-print(sklearn.__version__)
 
 
 import streamlit as st
@@ -13,9 +8,7 @@ import joblib
 # Load trained pipeline
 import os
 
-print(os.getcwd())
 
-print(os.path.abspath("complete_pipeline.pkl"))
 
 model = joblib.load("complete_pipeline.pkl")
 
